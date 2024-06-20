@@ -16,7 +16,7 @@ npm run build
 
 # For NextJS
 echo "creating Nextjs"
-pm2 restart
+pm2 restart vysakh
 # npm run start --name 'vysakh'
 # npm run export
 
