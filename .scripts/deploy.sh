@@ -16,7 +16,8 @@ npm run build
 
 # For NextJS
 echo "creating Nextjs"
-pm2 restart npm run start --name 'vysakh'
+pm2 restart
+# npm run start --name 'vysakh'
 # npm run export
 
 echo "Deployment Finished!"
